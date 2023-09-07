@@ -19,3 +19,11 @@ The key features of our Android app include:
 5. Data Backup and Synchronization: We utilize Google Firebase, a cloud-based platform, to store and synchronize sensor data. This ensures that farmers can access their data from multiple devices and never lose valuable information.
 
 By combining IoT technology, sensor integration, and Android app development, our smart agriculture project empowers farmers to make data-driven decisions, improve crop yields, and optimize resource utilization. It brings automation and intelligence to traditional farming practices, contributing to sustainable and efficient agriculture.
+
+
+**Experience the 'FirstSow' project in action!**
+
+You can access the demo by following this link: [FirstSow Prototype](https://drive.google.com/file/d/1tndF6FuNhf2HOpGnALKfp-m_XO39aWUU/view?usp=sharing)
+
+Explore our innovative agricultural initiative and witness how it optimizes crop planting for improved yields and sustainable farming practices.
+We welcome your feedback and insights as we work towards advancing agriculture.
